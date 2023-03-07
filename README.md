@@ -15,5 +15,5 @@ MS Excel, Google Data Studio, dashboards,BigQuery,SQL,MySQL,Data Wrangling,Data 
 
 RFM analyse customer segmentation SQL calculation
 
-
+'code'
   
