@@ -13,9 +13,7 @@ MS Excel, Google Data Studio, dashboards,BigQuery,SQL,MySQL,Data Wrangling,Data 
 
 # Projects
 
-RFM analyse customer segmentation SQL calculation
-
-![alt text](RFM.jpg)
+RFM analyse customer segmentation visualisation
 
   
 ![RFM](https://user-images.githubusercontent.com/113699782/223518103-5028944f-c1ca-43cd-a33d-966bfb7b8fbe.jpg)
