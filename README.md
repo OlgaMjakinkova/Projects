@@ -15,5 +15,6 @@ MS Excel, Google Data Studio, dashboards,BigQuery,SQL,MySQL,Data Wrangling,Data 
 
 RFM analyse customer segmentation SQL calculation
 
-'code'
+![image](file:///C:/Users/odeni/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/Data%20analytics/Main%20Analyses%20types/3.RFM%20and%20CLV/RFM%20from%2026.10/RFM%2026.10.pdf)
+
   
