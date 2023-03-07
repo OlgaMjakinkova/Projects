@@ -21,7 +21,7 @@ An RFM model is built using three key factors:
 3. How much money did customers spend ordering the products?
 
 Based on these factors, customers were segmented into 11 groups for future tracking and targeting with messages that best match their relationship with your business.
-  
+[Presentation] (https://github.com/OlgaMjakinkova/Projects/blob/main/RFM%2026.10.pdf)
 ![RFM](https://user-images.githubusercontent.com/113699782/223518103-5028944f-c1ca-43cd-a33d-966bfb7b8fbe.jpg)
 
 ## Payments Monetization Analyst Presentation
